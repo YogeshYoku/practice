@@ -1,0 +1,10 @@
+package org.variables;
+
+public class B {
+	public static void main(String[] args) {
+		A a=new A();
+	int a2 = a.a;
+	System.out.println(a2);
+	}
+
+}

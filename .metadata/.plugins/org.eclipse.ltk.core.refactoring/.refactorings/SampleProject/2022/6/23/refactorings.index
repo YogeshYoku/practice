@@ -1,0 +1,8 @@
+1654058418541	Extract local variable 'forName'
+1654058440167	Extract local variable 'connection'
+1654058667675	Extract local variable 'prepareCall'
+1654058710138	Extract local variable 'prepareStatement'
+1654058727991	Extract local variable 'executeQuery'
+1654058798439	Extract local variable 'string'
+1654058860924	Extract local variable 'int1'
+1654058890306	Extract local variable 'string'

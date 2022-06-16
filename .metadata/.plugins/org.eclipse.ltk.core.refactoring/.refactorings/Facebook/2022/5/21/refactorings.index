@@ -1,0 +1,7 @@
+1652956815787	Extract local variable 'findElement'
+1652978325413	Extract local variable 'windowHandle'
+1652978482450	Extract local variable 'windowHandles'
+1652981093095	Extract local variable 'allSelectedOptions'
+1652981422903	Extract local variable 'options'
+1652982524744	Extract local variable 'keyDown'
+1652982855054	Extract local variable 'contextClick'

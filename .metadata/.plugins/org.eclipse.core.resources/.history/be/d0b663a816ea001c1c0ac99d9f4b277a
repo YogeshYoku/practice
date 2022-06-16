@@ -1,0 +1,18 @@
+package org.variables;
+
+public class B extends A{
+	private void method1() {
+super.test1();
+
+	}
+	public static void main(String[] args) {
+		
+	
+
+	
+		
+	
+	
+	}
+
+}

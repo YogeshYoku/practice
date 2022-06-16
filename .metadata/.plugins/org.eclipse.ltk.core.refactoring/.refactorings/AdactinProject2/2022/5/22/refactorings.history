@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AdactinProject2/src/test/resources/Features/BookingHotel.feature&apos; to &apos;LoginPage.feature&apos;" description="Rename resource &apos;BookingHotel.feature&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/resources/Features/BookingHotel.feature" name="LoginPage.feature" stamp="1653666614648" updateReferences="true"/>
+</session>

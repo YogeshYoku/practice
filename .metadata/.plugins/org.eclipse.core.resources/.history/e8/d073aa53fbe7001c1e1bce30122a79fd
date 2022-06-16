@@ -1,0 +1,19 @@
+package hello;
+
+import java.net.MalformedURLException;
+import java.net.URL;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class BrowserLaunch {
+	public static void main(String[] args) throws MalformedURLException {
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\orton\\eclipse-workspace\\Hello\\driver\\chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		
+		URL url=new URL("https://www.facebook.com/");
+		driver.navigate().to(url);
+		
+	}
+
+}

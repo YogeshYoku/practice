@@ -1,0 +1,17 @@
+package org.variables;
+
+public class A {
+	int a=5;
+	
+	private void test1() {
+
+	System.out.println(a);
+	int a2 = this.a;
+	System.out.println(a2);
+	}
+public static void main(String[] args) {
+	A a=new A();
+	a.test1();
+	
+}
+}

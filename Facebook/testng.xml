@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test suite" verbose="2" parallel="methods" thread-count="2">
+<test name="Test cases">
+<parameter name="Name" value="Yogesh"></parameter>
+<classes>
+<class name="testNG.ParameterizationExample"></class>
+<class name="testNG.DependenciesManagement"></class>
+<class name="testNG.DriveACar"></class>
+<class name="testNG.SampleTestCase"></class>
+<class name="testNG.SkipATestCase"></class> 
+<class name="testNG.ParallelTesting"></class></classes>
+</test> <!-- Test -->
+</suite> <!-- Suite -->

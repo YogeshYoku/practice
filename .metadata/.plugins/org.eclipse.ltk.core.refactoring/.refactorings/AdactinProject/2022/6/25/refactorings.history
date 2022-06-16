@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;property&apos; from expression &apos;System.getProperty(&quot;user.dir&quot;)&apos;&#x0D;&#x0A;- Original project: &apos;AdactinProject&apos;&#x0D;&#x0A;- Variable name: &apos;property&apos;&#x0D;&#x0A;- Destination method: &apos;com.reporting.ReportingPractice.generateeJVMReport(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;System.getProperty(&quot;user.dir&quot;)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;property&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.reporting{ReportingPractice.java" name="property" replace="true" selection="153 0" stamp="1655286425684" varType="false" version="1.0"/>
+</session>

@@ -1,0 +1,20 @@
+package hello;
+
+public class Sample {
+	public static void main(String[] args) {
+		/*String name="Ram";
+		if (name!=null) {
+			int length = name.length();
+			System.out.println(length);	
+		}
+		*/
+
+	String name="welcome";
+	if (name.length()!=0) {
+		char charAt = name.charAt(10);
+		
+	}
+	}
+	
+	
+	}

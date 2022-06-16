@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test Cases">
+    <classes>
+      <class name="org.sample.OmrBranchClass">
+        <methods>
+          <include name="login"/>
+          <include name="changeProfilePic"/>
+        </methods>
+      </class> <!-- org.sample.OmrBranchClass -->
+    </classes>
+  </test> <!-- Test Cases -->
+</suite> <!-- Failed suite [Test Suite] -->

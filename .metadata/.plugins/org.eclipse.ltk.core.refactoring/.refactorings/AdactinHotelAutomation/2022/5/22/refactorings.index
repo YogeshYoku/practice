@@ -1,0 +1,59 @@
+1653477794584	Copy compilation units
+1653478033445	Delete element
+1653479331716	Copy compilation unit
+1653479351079	Delete element
+1653479363339	Copy compilation unit
+1653479380970	Copy compilation units
+1653479404992	Delete elements
+1653481664918	Extract local variable 'attribute'
+1653482907488	Extract local variable 'text'
+1653483484137	Extract local variable 'text'
+1653494324415	Extract local variable 'map2'
+1653494462329	Extract local variable 'string'
+1653494546152	Extract local variable 'string'
+1653494576320	Extract local variable 'string2'
+1653494720399	Extract local variable 'findElementId'
+1653495077366	Extract local variable 'map3'
+1653495340737	Extract local variable 'string'
+1653495392748	Extract local variable 'findElementId2'
+1653496237705	Extract local variable 'string'
+1653496275881	Extract local variable 'findElementId3'
+1653496356860	Extract local variable 'string'
+1653496409270	Extract local variable 'findElementId4'
+1653496552866	Extract local variable 'string'
+1653496584797	Extract local variable 'findElementId5'
+1653496894119	Extract local variable 'findElementId6'
+1653497222412	Extract local variable 'text'
+1653497501587	Extract local variable 'text'
+1653498689686	Extract local variable 'text'
+1653498960027	Extract local variable 'findElementId'
+1653499590871	Extract local variable 'findElementId'
+1653499610299	Extract local variable 'text'
+1653541049608	Extract local variable 'text'
+1653541545910	Extract local variable 'ccNum'
+1653541587805	Extract local variable 'dtnCcType'
+1653541622462	Extract local variable 'dtnCcExpMonth'
+1653541664817	Extract local variable 'dtnCcExpYear'
+1653541695570	Extract local variable 'txtcCCvv'
+1653547259974	Extract local variable 'property'
+1653548205456	Copy compilation unit
+1653548236078	Copy compilation units
+1653548248593	Copy compilation unit
+1653548259884	Copy compilation units
+1653548775318	Delete elements
+1653548786023	Delete elements
+1653548792283	Delete elements
+1653548955939	Copy compilation unit
+1653548964884	Delete element
+1653549631552	Extract local variable 'property'
+1653556318332	Delete element
+1653556782084	Extract local variable 'btnBookNow'
+1653567493742	Extract local variable 'object'
+1653568087424	Extract local variable 'object'
+1653568201208	Extract local variable 'property'
+1653568331120	Extract local variable 'property'
+1653574234520	Extract local variable 'btnBookNow'
+1653575479109	Extract local variable 'string'
+1653650785712	Copy packages
+1653651014365	Copy file
+1653652549197	Copy file

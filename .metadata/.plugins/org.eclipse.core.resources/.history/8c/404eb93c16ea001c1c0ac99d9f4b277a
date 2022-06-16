@@ -1,0 +1,23 @@
+package org.variables;
+
+public class A {
+	int a=5;
+	
+	private void test1() {
+
+	System.out.println("welcome");
+	
+	}
+	
+	private void test2() {
+test1();
+this.test1();
+
+		}
+public static void main(String[] args) {
+A a=new A();
+a.test1();
+	
+	
+}
+}

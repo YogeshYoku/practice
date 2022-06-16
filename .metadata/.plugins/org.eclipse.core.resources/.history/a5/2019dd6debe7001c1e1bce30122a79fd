@@ -1,0 +1,16 @@
+package hello;
+
+public class Stringx {
+	
+	public static void main(String[] args) {
+	String s="yogesh";
+	String s1=null;
+	int length = s.length();
+	System.out.println(length);
+	char charAt = s.charAt(7);
+	System.out.println(charAt);
+		String substring = s1.substring(charAt);
+		System.out.println(substring);
+	}
+
+}

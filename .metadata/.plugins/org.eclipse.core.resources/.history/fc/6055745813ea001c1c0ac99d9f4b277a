@@ -1,0 +1,11 @@
+package org.variables;
+
+public class A {
+	int a=5;
+	
+	private void test1() {
+
+	System.out.println(a);
+	}
+
+}
